@@ -1,0 +1,9 @@
+{
+	"name": "AirBnB-project",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a0fd11bd-d134-4f26-8527-bc2c923c644e",
+		"tenantId": "b3025fba-978d-4cff-ad48-0c7d4138dba6"
+	}
+}
